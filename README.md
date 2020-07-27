@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Github Pages 网站搭建
 
-You can use the [editor on GitHub](https://github.com/caiweimin1/Summer-camp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+标签（空格分隔）： 未分类
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+#####访问: https://github用户名.github.io
+##步骤
+* 1.创建个人站点---->新建仓库[仓库名必须是用户名.github.io]
+* 2.在仓库创建并编写index.html文档 [以后主页显示文件]
 
-### Markdown
+  >####一.创建项目Pages 页面
+   >>1.进入项目主页,点击setting项目 站点
+   2.在setting项目中点击 GitHub Pages中的change theme 选择主题Select theme
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+小心点:仅支持静态网页 仓库里只能有index.html文件
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caiweimin1/Summer-camp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
