@@ -1,1 +1,1 @@
-a's'd'faasdfa
+function() 你好{}
